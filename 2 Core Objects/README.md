@@ -37,7 +37,7 @@ This deletes everything under the namespace!
 
 ## Labels
 
-<img src="./img/labels_img.png" alt="Labels" height="200px">
+<img src="./img/labels_img.png" alt="Labels" height="300px">
 
 
 key-value pairs that are used to identify, describe and group together related sets of objects or resources. 
@@ -45,6 +45,6 @@ key-value pairs that are used to identify, describe and group together related s
 
 ## Selectors
 
-![selectors](./img/Selectors_img.png)
+<img src="./img/Selectors_img.png" alt="Labels" height="300px">
 
 Selectors use labels to filter or select objects, and are used throughout Kubernetes.
