@@ -37,7 +37,8 @@ This deletes everything under the namespace!
 
 ## Labels
 
-![Labels](./img/labels_img.png)
+<img src="./img/labels_img.png" alt="Labels" height="200px">
+
 
 key-value pairs that are used to identify, describe and group together related sets of objects or resources. 
 
