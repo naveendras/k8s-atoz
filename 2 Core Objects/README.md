@@ -35,4 +35,15 @@ kubectl delete namespaces <insert-some-namespace-name>
 **Warning:**  
 This deletes everything under the namespace!
 
+## Labels
 
+![Labels](./img/labels_img.png)
+
+key-value pairs that are used to identify, describe and group together related sets of objects or resources. 
+
+
+## Selectors
+
+![selectors](./img/Selectors_img.png)
+
+Selectors use labels to filter or select objects, and are used throughout Kubernetes.
